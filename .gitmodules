@@ -4,3 +4,6 @@
 [submodule "hattrie/hat-trie-repo"]
 	path = hattrie/hat-trie-repo
 	url = git@github.com:pengkui/hat-trie.git
+[submodule "datrie/datrie-repo"]
+	path = datrie/datrie-repo
+	url = git@github.com:pengkui/datrie.git
