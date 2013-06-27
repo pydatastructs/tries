@@ -7,3 +7,6 @@
 [submodule "datrie/datrie-repo"]
 	path = datrie/datrie-repo
 	url = git@github.com:pengkui/datrie.git
+[submodule "marisatrie/marisa-trie-repo"]
+	path = marisatrie/marisa-trie-repo
+	url = git@github.com:pengkui/marisa-trie.git
