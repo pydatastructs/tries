@@ -1,3 +1,6 @@
 [submodule "chartrie/chartrie-repo"]
 	path = chartrie/chartrie-repo
 	url = git@github.com:pengkui/chartrie.git
+[submodule "hattrie/hat-trie-repo"]
+	path = hattrie/hat-trie-repo
+	url = git@github.com:pengkui/hat-trie.git
