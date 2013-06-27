@@ -13,3 +13,6 @@
 [submodule "pytrie/pytrie-repo"]
 	path = pytrie/pytrie-repo
 	url = git@github.com:pengkui/pytrie.git
+[submodule "pytrie2/pytrie2-repo"]
+	path = pytrie2/pytrie2-repo
+	url = git@github.com:pengkui/pytrie2.git
