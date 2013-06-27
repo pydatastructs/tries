@@ -1,0 +1,3 @@
+[submodule "chartrie/chartrie-repo"]
+	path = chartrie/chartrie-repo
+	url = git@github.com:pengkui/chartrie.git
