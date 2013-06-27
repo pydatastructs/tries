@@ -10,3 +10,6 @@
 [submodule "marisatrie/marisa-trie-repo"]
 	path = marisatrie/marisa-trie-repo
 	url = git@github.com:pengkui/marisa-trie.git
+[submodule "pytrie/pytrie-repo"]
+	path = pytrie/pytrie-repo
+	url = git@github.com:pengkui/pytrie.git
